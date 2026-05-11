@@ -3,9 +3,9 @@
         "{7d093b4b-ad4c-4790-b0bf-3063fd4c8f67}": {
             "updates": [
                 {
-                    "version": "4.0.7",
-                    "update_link": "https://github.com/sparky8512/Manga-Downloader-Plus/releases/download/4.0.7/Manga-Downloader-Firefox.xpi",
-                    "update_hash": "sha256:36cdda504966800b39088d42f2ad8ce06ee589b91e0eb31aed1a26cc7fb31a77"
+                    "version": "4.0.8",
+                    "update_link": "https://github.com/sparky8512/Manga-Downloader-Plus/releases/download/4.0.8/Manga-Downloader-Firefox.xpi",
+                    "update_hash": "sha256:3e23b1c09006e167c2e5d79f6f1564e12f5ec07924edbcea011def4e9409924f"
                 }
             ]
         }
